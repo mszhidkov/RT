@@ -1,0 +1,128 @@
+2015/03/17 20:57:41 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:58:38 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:58:40 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:58:49 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:58:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:58:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:59:15 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:59:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:59:17 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 20:59:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/ocr/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/ocr/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/html/ocr/yii/ocr/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ocr/yii/ocr/index.php/gii
+---
+2015/03/17 21:08:23 [error] [php] include(GearmanClient.php): failed to open stream: No such file or directory (/var/www/html/ocr/yii/framework/YiiBase.php:432)
+Stack trace:
+#0 /var/www/html/ocr/yii/ocr/protected/controllers/SiteController.php(31): spl_autoload_call()
+#1 /var/www/html/ocr/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#2 /var/www/html/ocr/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /var/www/html/ocr/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /var/www/html/ocr/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/html/ocr/yii/ocr/index.php(13): CWebApplication->run()
+REQUEST_URI=/ocr/yii/ocr/index.php/site/index
+in /var/www/html/ocr/yii/ocr/protected/controllers/SiteController.php (31)
+in /var/www/html/ocr/yii/ocr/index.php (13)
+2015/03/17 21:08:28 [error] [php] include(GearmanClient.php): failed to open stream: No such file or directory (/var/www/html/ocr/yii/framework/YiiBase.php:432)
+Stack trace:
+#0 /var/www/html/ocr/yii/ocr/protected/controllers/SiteController.php(31): spl_autoload_call()
+#1 /var/www/html/ocr/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#2 /var/www/html/ocr/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /var/www/html/ocr/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /var/www/html/ocr/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /var/www/html/ocr/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /var/www/html/ocr/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /var/www/html/ocr/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/html/ocr/yii/ocr/index.php(13): CWebApplication->run()
+REQUEST_URI=/ocr/yii/ocr/index.php/site/index
+in /var/www/html/ocr/yii/ocr/protected/controllers/SiteController.php (31)
+in /var/www/html/ocr/yii/ocr/index.php (13)
